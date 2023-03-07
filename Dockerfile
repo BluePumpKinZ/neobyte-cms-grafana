@@ -1,2 +1,2 @@
-FROM grafana/grafana-oss:latest
+FROM grafana/grafana:latest
 ADD grafana.ini /etc/grafana/grafana.ini
